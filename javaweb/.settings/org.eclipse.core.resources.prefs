@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/NewFile1.jsp=UTF-8
+encoding//WebContent/uploadify.css=UTF-8
+encoding//WebContent/zhuce.jsp=UTF-8
+encoding//src/com/dao/UserDao.java=UTF-8
+encoding//src/com/dao/UserDaoImpl.java=UTF-8
+encoding//src/com/filter/EncodingFilter.java=UTF-8
+encoding//src/com/servlet/DeleteServlet.java=UTF-8
+encoding//src/com/servlet/DengluServlet.java=UTF-8
+encoding//src/com/servlet/DownLoadServlet.java=UTF-8
+encoding//src/com/servlet/ZhuceServlet.java=UTF-8
+encoding//src/com/util/DBconn.java=UTF-8
